@@ -1,4 +1,4 @@
-# Hola, soy Cristian Ernesto Antonio Santiago 👋
+# Hola, soy Cristian Ernesto👋
 
 Soy estudiante de 9.º semestre de la Licenciatura en Ciencias Computacionales
 en la Universidad Autónoma de Nuevo León (UANL).
